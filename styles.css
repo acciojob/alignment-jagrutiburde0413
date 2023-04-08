@@ -1,1 +1,9 @@
 /*  your css code here. If applicable */
+.one{
+    height: 100px;
+    width:500px;
+}
+table, tr, td{
+    border:2px solid black;
+    border-collapse: collapse;
+}
