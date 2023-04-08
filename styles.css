@@ -2,15 +2,22 @@
 #table-1{
     margin: auto;
     width: 60%;
-	margin-bottom:10px;
+	margin-bottom:20px;
 }
 #table-2{
     margin: auto;
     width: 60%;
+	margin-bottom:20px;
 }
-#table2 > td{
-	height:10px;
+#table-3{
+    margin: auto;
+    width: 60%;
+	
 }
+.img{
+	text-align: center;
+}
+
 .center{
     text-align: center;
 }
@@ -27,6 +34,7 @@ table{
 td{
     padding: 1px;
     border: 1px solid black;
+	
 }
 
 .green{
@@ -38,5 +46,5 @@ td{
 }
 table, tr, td{
     border:2px solid black;
-   
+   height:10px;
 }
