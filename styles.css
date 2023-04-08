@@ -45,6 +45,6 @@ td{
     background-color: blue;
 }
 table, tr, td{
-    border:2px solid black;
+    border:1px solid black;
    height:10px;
 }
